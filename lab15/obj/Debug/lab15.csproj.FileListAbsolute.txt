@@ -1,0 +1,15 @@
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\lab15.csprojAssemblyReference.cache
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\App.g.cs
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\lab15_MarkupCompile.cache
+E:\Visual Studio workspace\P4\lab15\lab15\bin\Debug\lab15.exe.config
+E:\Visual Studio workspace\P4\lab15\lab15\bin\Debug\lab15.exe
+E:\Visual Studio workspace\P4\lab15\lab15\bin\Debug\lab15.pdb
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\MainWindow.g.cs
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\lab15_MarkupCompile.lref
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\MainWindow.baml
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\lab15.g.resources
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\lab15.Properties.Resources.resources
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\lab15.csproj.GenerateResource.cache
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\lab15.exe
+E:\Visual Studio workspace\P4\lab15\lab15\obj\Debug\lab15.pdb
